@@ -1,5 +1,5 @@
 {
-    "name": "com.plyground.jutps-core",
+    "name": "com.plyground.jutps",
     "rootNamespace": "",
     "references": [
         "Unity.Netcode.Runtime",
