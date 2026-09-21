@@ -1,0 +1,10 @@
+{
+  "name": "com.plyground.jutps",
+  "version": "1.0.0",
+  "displayName": "Plyground JUTPS Core",
+  "description": "Abstract api to implement different JUTPS modules.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Plyground"
+  }
+}
